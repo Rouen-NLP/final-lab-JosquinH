@@ -60,21 +60,21 @@ Avec le meilleur gamma trouvé à 0.001 on obtient les résultats suivant :
            8       0.57      0.42      0.48        48
            9       0.95      0.92      0.94       135
 
-   micro avg       0.70      0.70      0.70       697
-   macro avg       0.74      0.66      0.65       697
-weighted avg       0.75      0.70      0.69       697
+    micro avg       0.70      0.70      0.70       697
+    macro avg       0.74      0.66      0.65       697
+    weighted avg       0.75      0.70      0.69       697
 
 
-  69   0   2   0   0   4  12   0   0   1
-   3  25   0   0   2   2   1   0   1   0
-   4   0  94   0   0  20   1   0   3   0
-   0   0   0  15   0   0   0   0   0   0
-  11   0   4   0  18  10   3   0   7   0
-   1   1  11   0   1  86   1   0   2   6
-   3   0   1   0   0   2  30   0   0   0
-   4   1   3   0   0   0  40   6   2   1
-   6   2  16   0   3   4   0   0  17   0
-   0   0   3   0   0   5   3   0   0 124
+    69   0   2   0   0   4  12   0   0   1
+     3  25   0   0   2   2   1   0   1   0
+     4   0  94   0   0  20   1   0   3   0
+     0   0   0  15   0   0   0   0   0   0
+    11   0   4   0  18  10   3   0   7   0
+     1   1  11   0   1  86   1   0   2   6
+     3   0   1   0   0   2  30   0   0   0
+     4   1   3   0   0   0  40   6   2   1
+     6   2  16   0   3   4   0   0  17   0
+     0   0   3   0   0   5   3   0   0 124
 
 
 On peut noté une bonne précision sur l'ensemble des classes sauf pour Note et un mauvais recall pour Scientific et Report.
